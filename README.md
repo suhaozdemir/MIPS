@@ -7,6 +7,6 @@
 >
 > Array two elements = [7,2,7,4,8,2,6,3,5,8,0,1,2,7,5,3,9,5,3,8,5,0,4,3,7,5,2,8,9,1]
 
-The program compares this two array indices and return the bigger ones in Array three.
+The program compares this two array indices and returns the bigger ones in Array three.
 
 > Array three elements = [7,8,7,9,8,2,6,3,9,8,5,6,8,7,5,6,9,8,4,8,5,9,7,3,7,7,3,8,9,2]
